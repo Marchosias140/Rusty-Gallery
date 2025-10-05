@@ -1,5 +1,5 @@
 # Rusty-Gallery
-Wallpaper gallery web app written in Rust.
+Wallpaper gallery web app written in Rust and HTML, all tidy and redeable within the ``` main.rs```  file. What you modify match in both codes, becaue one handles what the app will grab and the other will handle how is it presented in the web interface, more or less.
 
 Updates:
 
@@ -16,7 +16,7 @@ Overall this app is made as a template that can be filled with any kind of theme
 
 
 
-Features a randomizer and several example tags. If you are going to change the tags, make sure to change them both in the Rust code and in the HTML code, which handles the buttons on the web interface.
+Features a randomizer and several example tags. The tags index the images according to the name of the tag being present within the name of the file (i.e if the tag is 'waifu' and the file is 'waifu1.jpg', it will be indexed in the 'waifu' tag).
 
 
 
