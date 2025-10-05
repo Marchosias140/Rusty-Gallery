@@ -4,6 +4,11 @@ Wallpaper gallery web app written in Rust.
 
 
 
+Overall this app is made as a template that can be filled with any kind of theme.
+
+
+
+
 Features a randomizer and several example tags. If you are going to change the tags, make sure to change them both in the Rust code and in the HTML code, which handles the buttons on the web interface.
 
 
@@ -35,7 +40,7 @@ There is a Podman version for easier deployment and control, which currently onl
 
 
 
-Overall this app is made as a template that can be filled with any kind of theme.
+
 
 
 
