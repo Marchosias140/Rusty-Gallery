@@ -6,6 +6,10 @@ Updates:
 - Added a samples folder with configurations inspired in two waifus from the anime that changed my life.
 
 
+About the code
+
+
+
 
 
 Overall this app is made as a template that can be filled with any kind of theme. 
