@@ -89,15 +89,14 @@ Podman Instructions
 
 Build the image, the binary must be in the same folder as the Dockerfile so it can be copied into the image, it's much easier than compiling the whole thing again.
 
-``` sudo podman build gallery .``` 
+``` sudo podman build rusty-gallery .``` 
+
+
+Then
 
 
 
-
-Run it with 
-
-
-``` sudo podman run -t --rm --net=host -v /your/wallpapers/folder:/home/static/wallpapers:Z rusty-gallery``` 
+```sudo podman compose up -d ``` 
 
 
 Enjoy!
