@@ -96,7 +96,7 @@ Build the image, the binary must be in the same folder as the Dockerfile so it c
 Run it with 
 
 
-``` sudo podman run -t --rm --net=host -v /your/wallpapers/folder:/home/static/wallpapers:Z gallery``` 
+``` sudo podman run -t --rm --net=host -v /your/wallpapers/folder:/home/static/wallpapers:Z rusty-gallery``` 
 
 
 Enjoy!
