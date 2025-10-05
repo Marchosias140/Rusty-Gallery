@@ -2,7 +2,7 @@ FROM fedora:latest
 
 RUN dnf -y update
 
-COPY wallpaper_gallery /usr/bin
+COPY rusty-gallery /usr/bin
 
 WORKDIR /home
 
@@ -10,4 +10,4 @@ RUN mkdir static
 
 RUN mkdir static/wallpapers
 
-CMD ["wallpaper_gallery"]
+CMD ["rusty-gallery"]
