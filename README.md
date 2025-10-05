@@ -4,7 +4,7 @@ Wallpaper gallery web app written in Rust.
 
 
 
-Overall this app is made as a template that can be filled with any kind of theme. 
+Overall this app is made as a template that can be filled with any kind of theme. Some sample alternate configurations will perhaps be uploaded to this repo in order to showcase how you can change some assets to tailor it to your special interests.
 
 
 
