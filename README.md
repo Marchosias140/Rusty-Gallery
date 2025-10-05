@@ -1,11 +1,14 @@
 # Rusty-Gallery
 Wallpaper gallery web app written in Rust.
 
+Updates:
+
+- Added a samples folder with configurations inspired in two waifus from the anime that changed my life.
 
 
 
-Overall this app is made as a template that can be filled with any kind of theme. Some sample alternate configurations will perhaps be uploaded to this repo in order to showcase how you can change some assets to tailor it to your special interests.
 
+Overall this app is made as a template that can be filled with any kind of theme. 
 
 
 
