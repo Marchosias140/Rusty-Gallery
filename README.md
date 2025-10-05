@@ -4,7 +4,7 @@ Wallpaper gallery web app written in Rust.
 
 
 
-Overall this app is made as a template that can be filled with any kind of theme.
+Overall this app is made as a template that can be filled with any kind of theme. 
 
 
 
