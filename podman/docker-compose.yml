@@ -1,0 +1,11 @@
+version: '3.8'
+
+services:
+  rusty-gallery:
+    image: rusty-gallery
+    container_name: rusty-gallery
+    network_mode: host
+    volumes:
+      - /your/wallpapers/folder:/home/static/wallpapers:Z
+    tty: true
+    restart: unless-stopped
