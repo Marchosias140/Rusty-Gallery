@@ -1,3 +1,10 @@
+Disclaimer: This project uses anime titles and character names (e.g., from Love Live!) 
+only as placeholders for demonstration purposes. 
+All characters, names, and related intellectual property belong to their respective owners. 
+This project is not affiliated with, endorsed by, or sponsored by the official rights holders. 
+The source code is licensed under the MIT License.
+
+
 # Rusty-Gallery
 Wallpaper gallery web app written in Rust and HTML, all tidy and redeable within the ``` main.rs```  file. What you modify match in both codes, becaue one handles what the app will grab and the other will handle how is it presented in the web interface, more or less.
 
