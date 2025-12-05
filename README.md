@@ -12,6 +12,7 @@ Updates:
 
 - Added a samples folder with configurations inspired in two waifus from the anime that changed my life.
 - Added docker-compose.yml file for easy management.
+- Made the network configuration more precise.
 
 
 About the code
