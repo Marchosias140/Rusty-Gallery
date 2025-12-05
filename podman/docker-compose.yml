@@ -4,7 +4,8 @@ services:
   rusty-gallery:
     image: rusty-gallery
     container_name: rusty-gallery
-    network_mode: host
+    ports:
+      - "3000:3000"
     volumes:
       - /your/wallpapers/folder:/home/static/wallpapers:Z
     tty: true
