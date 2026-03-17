@@ -97,7 +97,7 @@ Podman Instructions
 
 Build the image, the binary must be in the same folder as the Dockerfile so it can be copied into the image, it's much easier than compiling the whole thing again.
 
-``` sudo podman build rusty-gallery .``` 
+``` sudo podman build .``` 
 
 
 Then
